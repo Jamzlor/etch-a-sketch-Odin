@@ -1,0 +1,26 @@
+/* element */
+body{
+    margin: 0;
+    background-color: rgb(211, 211, 211);
+    text-align: center;
+}
+/* id */
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 800px;
+    background-color: darkgrey;
+    margin:auto;
+}
+/* class */
+.sizeButton{
+    margin: 20px auto;
+}
+.grid{
+    background-color: rgb(235, 235, 235);
+}
+.stepped{
+    background-color: rgb(46, 45, 45)
+}
+
